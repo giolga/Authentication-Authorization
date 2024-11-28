@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4827CDDE-279C-4A17-A725-A890C1CC36BA}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827CDDE-279C-4A17-A725-A890C1CC36BA}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827CDDE-279C-4A17-A725-A890C1CC36BA}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827CDDE-279C-4A17-A725-A890C1CC36BA}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827CDDE-279C-4A17-A725-A890C1CC36BA}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827CDDE-279C-4A17-A725-A890C1CC36BA}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\migrations\\20241128101836_dateofbirthadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\migrations\\20241128101836_dateofbirthadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\mikey\\source\\repos\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32C7AB20-4A32-4C77-87E4-8CC6C0A5432A}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:40:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersistentAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:39:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersistingRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADgv2IAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:38:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\UserInfo.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\UserInfo.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\UserInfo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:36:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:22:43.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241128101836_DateOfBirthAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\20241128101836_DateOfBirthAdded.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\20241128101836_DateOfBirthAdded.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\20241128101836_DateOfBirthAdded.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\20241128101836_DateOfBirthAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:18:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:15:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:17:20.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T09:15:51.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
